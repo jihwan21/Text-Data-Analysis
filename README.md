@@ -43,7 +43,7 @@
 2. **LDA** : keyword 7 개 하나로 합쳐서 진행 English text data blog + news + arXiv)  
 LDA결과로 나온 토픽 7 개 분석해 keyword 랑 잘 매칭되는지 확인 모델링 결과 topic 과 keyword 특정해보기  
 토픽 모델링이 잘 수행되었는지 해석  
-3. **LSTM 을 이용한 다중 분류 모델&& : keyword 7 개 데이터 하나로 합쳐서 진행 (English text data)  
+3. **LSTM 을 이용한 다중 분류 모델** : keyword 7 개 데이터 하나로 합쳐서 진행 (English text data)  
 LSTM 기반 분류 모델이 텍스트 데이터가 주어졌을 때 7 개의 키워드로 잘 분류하는지 확인  
 (데이터를 아래와 같이 두 가지 경우로 나누어 진행)  
 3-1. arXiv 텍스트 데이터만 주어졌을 때  
