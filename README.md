@@ -29,7 +29,7 @@
   3. arXiv
 
 - 데이터 수집 방법  
-  1.Selenium 활용 arXiv  
+  1. Selenium 활용 arXiv  
   2. Naver 검색 API 활용 Naver blog & news
 
 ### 2. 텍스트 데이터 전처리
